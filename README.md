@@ -45,8 +45,8 @@ Je suis Enzo Erdmann, un passionné d'informatique français titulaire d'un dipl
 ## 📫 Contact
 
 - **GitHub :** [github.com/EnzoErd](https://github.com/EnzoErd)
-- **LinkedIn :** [linkedin.com/in/enzo-erdmann]([https://www.linkedin.com/in/enzo-erdmann](https://www.linkedin.com/in/enzo-erdmann-061203234/))
-- **Email :** [votre.email@example.com](mailto:enzo.erdmann@gmail.com)
+- **LinkedIn :** [linkedin.com/enzo-erdmann](https://www.linkedin.com/in/enzo-erdmann-061203234/)
+- **Email :** [enzo.erdmann@gmail.com](mailto:enzo.erdmann@gmail.com)
 
 N'hésitez pas à me contacter pour discuter de collaborations, de projets passionnants ou simplement pour échanger sur les dernières avancées technologiques. Je suis toujours ouvert aux nouvelles opportunités et prêt à relever de nouveaux défis dans le monde de la programmation.
 
