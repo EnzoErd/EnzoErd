@@ -2,7 +2,7 @@
 
 ## 👨‍💻 À propos de moi
 
-Je suis Enzo Erdmann, un passionné d'informatique français titulaire d'un diplôme de BUT 3 en informatique. 
+Je suis un passionné d'informatique titulaire d'un diplôme de BUT 3 en informatique. 
 Ma fascination pour le monde du code m'a conduit à maîtriser un large éventail de technologies et de langages.
 
 ## 🚀 Compétences
